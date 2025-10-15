@@ -1,0 +1,6 @@
+{
+  "name": "google-ads-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Google Ads API",
+  "main": "api/proxy.js"
+}
